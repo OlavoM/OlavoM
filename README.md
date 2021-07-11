@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+
+<p style="text-align: center;">I'm studiyng Computer Science at <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao/">Universidade Presbiteriana Mackenzie</a>
+ and currently working with cybersecurity as a intern on <a href="https://www.evaltec.com.br/">Eval Tec</a>.<p>
+
+ 
 
 <!--
 **OlavoM/OlavoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
