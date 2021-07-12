@@ -27,15 +27,17 @@ Assembly(MIPS) | :star:
 * Virtual Assistant (in the early process, using python API's)
 
 ## Current learning about
-* Cryptography
-* Digital Signature
-* Unit Tests
-* Docker
+* cryptography
+* digital signature
+* unit tests
+* docker
 
 ## Other interests
 Besides computers I also like bodybuilding, animes and games
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/54750022/125213870-90584400-e28a-11eb-91a8-8e471fd4b000.jpg" width="300" />
-  <img src="https://user-images.githubusercontent.com/54750022/125213691-b92c0980-e289-11eb-8abd-22ca69ceba24.jpg" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/54750022/125213877-9c440600-e28a-11eb-8205-9eb271ea52cd.jpg" width="300" />
-</p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/54750022/125213870-90584400-e28a-11eb-91a8-8e471fd4b000.jpg" width=300>
+    <img src="https://user-images.githubusercontent.com/54750022/125213691-b92c0980-e289-11eb-8abd-22ca69ceba24.jpg" width=300>
+    <img src="https://user-images.githubusercontent.com/54750022/125213877-9c440600-e28a-11eb-8205-9eb271ea52cd.jpg" width=300>
+<p>
+
+
