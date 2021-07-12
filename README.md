@@ -35,9 +35,9 @@ Assembly(MIPS) | :star:
 ## Other interests
 Besides computers I also like bodybuilding, animes and games
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/54750022/125213870-90584400-e28a-11eb-91a8-8e471fd4b000.jpg" width=300>
-    <img src="https://user-images.githubusercontent.com/54750022/125213691-b92c0980-e289-11eb-8abd-22ca69ceba24.jpg" width=300>
-    <img src="https://user-images.githubusercontent.com/54750022/125213877-9c440600-e28a-11eb-8205-9eb271ea52cd.jpg" width=300>
+    <img src="https://user-images.githubusercontent.com/54750022/125213870-90584400-e28a-11eb-91a8-8e471fd4b000.jpg" width=250>
+    <img src="https://user-images.githubusercontent.com/54750022/125213691-b92c0980-e289-11eb-8abd-22ca69ceba24.jpg" width=250>
+    <img src="https://user-images.githubusercontent.com/54750022/125213877-9c440600-e28a-11eb-8205-9eb271ea52cd.jpg" width=250>
 <p>
 
 
