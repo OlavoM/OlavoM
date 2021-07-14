@@ -26,11 +26,12 @@ Assembly(MIPS) | :star:
 * Raspberry
 * Virtual Assistant (in the early process, using python API's)
 
-## Current learning about
-* cryptography
-* digital signature
-* unit tests
-* docker
+## Currently learning about
+* Cryptography
+* Digital Signature
+* Unit Tests
+* Docker
+* Memory Leaks Detection
 
 ## Other interests
 Besides computers I also like bodybuilding, animes and games
