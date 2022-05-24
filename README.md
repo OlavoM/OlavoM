@@ -15,10 +15,10 @@ Name | Level of skill (1 to  5) |
 ---|---
 C++ | :star: :star: :star:
 C | :star: :star: :star:
-Python | :star: :star: :star:
+Python | :star: :star:
 Java | :star: :star:
 HTML | :star: :star:
-SQL | :star: :star: :star:
+SQL | :star: :star:
 Assembly(MIPS) | :star:
 Docker | :star: :star: :star:
 Kubernetes | :star: :star:
@@ -35,7 +35,7 @@ Kubernetes | :star: :star:
 * Memory Leaks Detection
 * Istio
 * Openshift
-* Cyber Security / Pentesting
+* Cyber Security / Pentest
 * Docker Escape Attack
 
 ## Other interests
