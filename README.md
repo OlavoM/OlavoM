@@ -10,7 +10,7 @@
 ## How to reach me
 [<img src="https://user-images.githubusercontent.com/54750022/125212511-45d3c900-e284-11eb-8437-cd1e89215282.png">](https://www.linkedin.com/in/olavo-m/)
 
-## Languages I use
+## Tech Skills
 Name | Level of skill (1 to  5) |
 ---|---
 C++ | :star: :star: :star:
@@ -20,6 +20,8 @@ Java | :star: :star:
 HTML | :star: :star:
 SQL | :star: :star: :star:
 Assembly(MIPS) | :star:
+Docker | :star: :star: :star:
+Kubernetes | :star: :star:
 
 ## Personal projects with
 * Arduino
@@ -30,8 +32,11 @@ Assembly(MIPS) | :star:
 * Cryptography
 * Digital Signature
 * Unit Tests
-* Docker
 * Memory Leaks Detection
+* Istio
+* Openshift
+* Cyber Security / Pentesting
+* Docker Escape Attack
 
 ## Other interests
 Besides computers I also like bodybuilding, animes and games
