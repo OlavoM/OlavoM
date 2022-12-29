@@ -1,14 +1,14 @@
 # About Me
 
-<p style="text-align: center;">I'm studiyng Computer Science at <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao/">Universidade Presbiteriana Mackenzie</a>
- and currently working with cybersecurity solutions development as a intern on <a href="https://www.evaltec.com.br/">Eval Tec</a>.<p>
+<p style="text-align: center;">I recently graduated in Computer Science at <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao/">Universidade Presbiteriana Mackenzie</a>
+ and I currently working as a Junior Performance Analyst at <a href="https://acolita.com.br/">Acolita - Serving Software Performance</a>.<p>
 
-![Cybersecurity](https://user-images.githubusercontent.com/54750022/125212181-073d0f00-e282-11eb-99d4-ffef5ce17293.jpeg)
+![Cybersecurity](https://user-images.githubusercontent.com/54750022/209887150-ac7b739f-1b4a-4b19-8760-ee2c40e5f22b.jpg)
 
 <br>
 
 ## How to reach me
-[<img src="https://user-images.githubusercontent.com/54750022/125212511-45d3c900-e284-11eb-8437-cd1e89215282.png">](https://www.linkedin.com/in/olavo-m/)
+[<img src="https://user-images.githubusercontent.com/54750022/209887731-01ccccc9-8935-4046-b97d-0403d2f65189.png" height="40">](https://www.linkedin.com/in/olavo-m/)
 
 ## Tech Skills
 Name | Level of skill (1 to  5) |
@@ -29,11 +29,20 @@ Kubernetes | :star: :star:
 * Virtual Assistant (in the early process, using python API's)
 
 ## Currently learning about
-* Cryptography
-* Digital Signature
-* Unit Tests
-* Memory Leaks Detection
-* Istio
-* Openshift
+* Performance
+* Azure
 * Cyber Security / Pentest
-* Docker Escape Attack
+
+
+## Bacharelor Final Paper
+* Title: "Análise de Técnicas de Mitigação de Riscos para o Docker
+Escape Attack"
+* KeyWords: Containers; Docker Security; Container Escape.
+
+## Other interests
+Besides computers I also like bodybuilding, animes and games
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/54750022/125213870-90584400-e28a-11eb-91a8-8e471fd4b000.jpg" width=250>
+    <img src="https://user-images.githubusercontent.com/54750022/125213691-b92c0980-e289-11eb-8abd-22ca69ceba24.jpg" width=250>
+    <img src="https://user-images.githubusercontent.com/54750022/125213877-9c440600-e28a-11eb-8205-9eb271ea52cd.jpg" width=250>
+<p>
