@@ -8,7 +8,9 @@
 <br>
 
 ## How to reach me
-[<img src="https://user-images.githubusercontent.com/54750022/209887731-01ccccc9-8935-4046-b97d-0403d2f65189.png" height="40">](https://www.linkedin.com/in/olavo-m/)
+<div>
+<a href="https://www.linkedin.com/in/olavo-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Tech Skills
 Name | Level of skill (1 to  5) |
