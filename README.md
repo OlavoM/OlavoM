@@ -46,8 +46,8 @@ Escape Attack"
 ## My Activity
 <div>
 <a href="https://github.com/OlavoM">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoM&layout=compact&langs_count=7&theme=hacker"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlavoM&show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoM&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlavoM&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Other interests
