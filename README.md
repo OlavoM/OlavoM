@@ -50,6 +50,14 @@ Escape Attack"
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlavoM&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
+
+## Repositories
+- 📗 [***OlavoM/Conway-GameOfLife***](https://github.com/OlavoM/Conway-GameOfLife) <br/>
+  The Conway Game of Life written in C.
+- 📗 [***OlavoM/Cheatsheets***](https://github.com/OlavoM/Cheatsheets) <br/>
+  A Cheatsheet collection in Brazilian Portuguese.
+
+
 ## Other interests
 Besides computers I also like bodybuilding, animes and games
 <p align="center">
