@@ -25,6 +25,9 @@ SQL | :star: :star:
 Assembly(MIPS) | :star:
 Docker | :star: :star: :star:
 Kubernetes | :star: :star:
+HTML | :star: 
+CSS | :star:
+Svelte | :star:
 
 ## Personal projects with
 * Arduino
