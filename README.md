@@ -28,6 +28,7 @@ Kubernetes | :star: :star:
 HTML | :star: 
 CSS | :star:
 Svelte | :star:
+Tailwind CSS | :star: :star:
 
 ## Personal projects with
 * Arduino
