@@ -67,8 +67,8 @@ Escape Attack"
 <p>
 
 
-<p style="text-align: center;">
-<a href="https://github.com/OlavoM/Cheatsheets/assets/54750022/d9439a5f-48c6-441e-9330-5f0dffe2ec12">OlavoAcolita</a>
+<p align="center">
+<a href="https://github.com/OlavoAcolita">OlavoAcolita</a>
 </p>
 
 
