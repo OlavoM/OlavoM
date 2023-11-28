@@ -25,6 +25,7 @@ SQL | :star: :star:
 Assembly(MIPS) | :star:
 Docker | :star: :star: :star:
 Kubernetes | :star: :star:
+Progress 4GL | :star:
 HTML | :star: 
 CSS | :star:
 Svelte | :star:
