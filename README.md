@@ -1,7 +1,7 @@
 # About Me
 
-<p style="text-align: center;">I recently graduated in Computer Science at <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao/">Universidade Presbiteriana Mackenzie</a>
- and I currently working as a Junior II Performance Analyst at <a href="https://acolita.com.br/">Acolita - Serving Software Performance</a>.<p>
+<p style="text-align: center;">I have a degree in Computer Science from <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao/">Universidade Presbiteriana Mackenzie</a>
+ and I currently working as a Performance Analyst at <a href="https://acolita.com.br/">Acolita - Serving Software Performance</a>.<p>
 
 ![Cybersecurity](https://user-images.githubusercontent.com/54750022/209887150-ac7b739f-1b4a-4b19-8760-ee2c40e5f22b.jpg)
 
